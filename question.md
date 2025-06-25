@@ -64,9 +64,9 @@ Insert **three food items** into the `FoodItems` table:
 ### **Order Data**:
 Insert **three orders** into the `Orders` table:
 
-1. Jack Roberts ordered Sandwich (Qty: 2) on Monday  
-2. Sophie Wilson ordered Burger (Qty: 1) on Tuesday  
-3. Liam O'Connor ordered Curry (Qty: 3) on Wednesday  
+1. Jack Roberts ordered Sandwich (Quantity: 2) on Monday  
+2. Sophie Wilson ordered Burger (Quantity: 1) on Tuesday  
+3. Liam O'Connor ordered Curry (Quantity: 3) on Wednesday  
 
 ---
 
