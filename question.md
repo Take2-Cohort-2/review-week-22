@@ -38,7 +38,7 @@ You are required to create the following tables in your database. When creating 
      - `FoodItemID`  
      - `Quantity`  
      - `DayOfWeek`  
-     - `Created`  
+     - `CreatedOn`  
 
 ---
 
