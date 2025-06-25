@@ -93,9 +93,9 @@ After the teacher helps you create the `MealTypes` table with Breakfast, Lunch, 
 
 Export your full database to a `.sql` file and submit it.
 
-`sqlite> .output yourname.sql`
-`sqlite> .dump`
-`sqlite> .exit`
+- `sqlite> .output yourname.sql`
+- `sqlite> .dump`
+- `sqlite> .exit`
 
 ---
 
